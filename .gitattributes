@@ -1,0 +1,7 @@
+# This file is used to override language statistics
+* text=auto eol=lf
+*.html linguist-vendored
+*.png binary
+*.ico binary
+src/**/*.rs linguist-detectable
+yarn.lock linguist-generated
